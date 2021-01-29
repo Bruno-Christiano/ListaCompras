@@ -11,7 +11,7 @@ body {
 }
 
 .todo-list {
-  background-color: #0B2027;
+  background-color: rgb(48, 61, 177);
   font-family: "Space Mono", monospace;
   padding: 1rem;
   min-width: 400px;
@@ -70,7 +70,7 @@ body {
 }
 
 .todo-list {
-  background-color: #0B2027;
+  background-color:rgb(48, 61, 177);
   font-family: "Space Mono", monospace;
   padding: 1rem;
   min-width: 400px;
